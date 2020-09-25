@@ -2,7 +2,10 @@
 - Pygame is a set of Python modules designed for writing video games.
   Pygame adds functionality on top of the excellent SDL library. This allows
   you to create fully featured games and multimedia programs in the python language.
-- 
+- You can generate random numbers in Python by using random module. Python offers random
+  module that can generate random numbers. These are pseudo-random number as the sequence
+  of number generated depends on the seed.
+- Python has a module named time to handle time-related tasks.
 
 ### installing libraries
 
